@@ -11,7 +11,7 @@
 
        { 
         "imagem": {
-            "src": "./img/interstellar.webp",
+            "src": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3a/Interstellar_Filme.png/250px-Interstellar_Filme.png",
             "alt": "Cartaz do filme Interstellar"
         },
         "titulo": "Interstellar",
@@ -19,7 +19,7 @@
     },
     {
         "imagem": {
-            "src": "./img/homem-aranha.webp",
+            "src": "https://upload.wikimedia.org/wikipedia/pt/1/14/Spide-Man_Poster.jpg",
             "alt": "Cartaz do filme Homem-Aranha"
         },
         "titulo": "Homem-Aranha",
@@ -27,7 +27,7 @@
     },
     {
         "imagem": {
-            "src": "./img/spm.webp",
+            "src": "https://br.web.img2.acsta.net/pictures/210/132/21013221_20130617200543616.jpg",
             "alt": "Cartaz do filme Sociedade dos Poetas Mortos"
         },
         "titulo": "Sociedade dos Poetas Mortos",
@@ -35,4 +35,5 @@
     }
 
 ]
+
 
