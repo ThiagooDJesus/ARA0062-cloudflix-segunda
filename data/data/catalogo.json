@@ -9,7 +9,7 @@
         "genero": "Ação"
     },
 
-        
+       { 
         "imagem": {
             "src": "./img/interstellar.webp",
             "alt": "Cartaz do filme Interstellar"
@@ -35,3 +35,4 @@
     }
 
 ]
+
