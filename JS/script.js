@@ -1,3 +1,12 @@
+//espaço para anotações:
+// - DOm, importante estudar mais sobre, - e o JSON tambem
+
+
+
+
+
+
+
 
 
 // O RegEx para validar e-mails é crucial aqui.
