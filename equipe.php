@@ -13,17 +13,9 @@
      
     <header> 
         <h1> Cloudflix o seu catalogo ficticio de filmes</h1>     </header>
-     <nav>
-           
-             <a href="index.html" style="font-size: 24px;">
-  <i class="bi bi-house"></i> Home
-</a>
+   
+     <?php include "nav.php"; ?>
 
-         <a href="catalogo.html"> 📽️ Catalago\</a>
-         <a href="SAC.html"> 🛠️ SAC\</a>
-         <b>Equipe</b>|
-         <a id="alternaTema" href="#">Alternar para Tema Escuro</a>
-   </nav>
    <main>
       <h2> Equipe de Desenvolvimento</h2>
       <p> Este site foi desenvolvido por:</p>
@@ -39,14 +31,7 @@
     </main>
 
 
-   <footer>
-      
-      <p>© 2025 CloudFlix. Todos os direitos reservados. </p>
-
-        <p>
-          Este projeto é uma ferramenta educacional e não comercial. As informações e imagens de filmes são utilizadas para fins de demonstração, aprendizado e ilustração de conceitos de desenvolvimento web.
-        </p>
-   </footer>
+   <?php include "footer.php"; ?>
    <script src="js/tema.js"></script>
 </body>
 
